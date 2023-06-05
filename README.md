@@ -7,9 +7,10 @@
  
 
  # Simple Quick Start 
- 
- 
 
+```javascript I'm tab B
+nn = NeuralNetwork()
+```
 
 
  
