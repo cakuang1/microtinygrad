@@ -146,7 +146,6 @@ class NeuralNetwork:
                 if testx and testy:
                     print('Your test accuracy after epoch ' + str(i + 1) + ' is ' + str(self.forward(testx,testy)))
 
-                
-
+        
 
             
